@@ -16,3 +16,4 @@ Esse repositório foi construido para listar o que um Backend pode saber? Cada u
 2. [BDD Serenity](https://serenity-bdd.github.io/theserenitybook/latest/index.html)
 3. [RestAssured](https://github.com/rest-assured/rest-assured/wiki/Usage)
 4. [AssertJ](https://assertj.github.io/doc/)
+5. [TestContainers](https://www.testcontainers.org/)
